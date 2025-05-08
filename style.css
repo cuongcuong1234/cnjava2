@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    color: #999;
+    font-size: 50px;
+    text-align: center;
+    border-radius: 100%;
+    border-color: aqua;
+}
